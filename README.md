@@ -12,16 +12,16 @@
 
 ```bash
 > Connect with me:
-> website    -> hariaksha.com  (or your portfolio URL)
-> linkedin   -> /in/hariaksha-gunda
-> email      -> your.email@example.com
+> website    -> hariaksha.com
+> linkedin   -> /in/hariaksha
+> email      -> hgunda@crimson.ua.edu
 ```
 
 <p>
-  <a href="https://www.linkedin.com/in/hariaksha-gunda" target="_blank">
+  <a href="https://www.linkedin.com/in/hariaksha" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:hgunda@crimson.ua.edu">
     <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF66" />
   </a>
   <a href="https://github.com/Hariaksha" target="_blank">
@@ -34,18 +34,33 @@
 ```yaml
 name: Hariaksha Gunda
 location: Montgomery, Alabama, USA
-education: University of Alabama
+education: The University of Alabama
 focus:
   - Environmental Economics & Climate Change
   - Peace & Conflict Studies
   - Causal Inference & Econometrics
   - Sustainable Development Policy
-languages:
+majors:
+  - Data Science
+  - Foreign Languages and Literature
+minors:
+  - Mathematics
+  - Economics
+  - Computer Science
+  - International Studies
+  - Public Policy
+  - Global and Cultural Perspectives
+tools:
   - Python
   - MATLAB
   - R / Stata
   - LaTeX
   - SQL
+languages:
+  - English
+  - Telugu
+  - German
+  - Indonesian
 ```
 
 ## ├──📂 Current Research
@@ -55,7 +70,7 @@ languages:
 >            → Fixed effects, Poisson regression, NASA FIRMS + ACLED data
 > Project 2: GDPR uncertainty & firm compliance behavior (Germany)
 >            → Econometric modeling, panel data analysis
-> Tools: Python · QGIS · Stata · GeoPandas · Spatial Econometrics
+> Tools: Python · QGIS · Stata · GeoPandas
 ```
 
 ## ├──📂 Activity
@@ -72,7 +87,8 @@ phd_applications:
 fellowships:
   - Fulbright Research (Germany)
   - Marshall Scholarship
-  - Gates Cambridge
+  - Gates-Cambridge
+  - Luce in Asia
 ```
 
 <div align="center">
