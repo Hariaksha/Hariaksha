@@ -51,11 +51,8 @@ minors:
   - Public Policy
   - Global and Cultural Perspectives
 tools:
-  - Python
-  - MATLAB
-  - R / Stata
-  - LaTeX
-  - SQL
+  - Python / R
+  - Econometrics
 languages:
   - English
   - Telugu
@@ -68,9 +65,8 @@ languages:
 ```bash
 > Project 1: Causal effects of wildfires on conflict in Indonesia
 >            → Fixed effects, Poisson regression, NASA FIRMS + ACLED data
-> Project 2: GDPR uncertainty & firm compliance behavior (Germany)
->            → Econometric modeling, panel data analysis
-> Tools: Python · QGIS · Stata · GeoPandas
+> Project 2: Climate Disaster Attribution in USA Media: Long Panel
+>            → Natural language processing, panel data analysis
 ```
 
 ## ├──📂 Activity
@@ -82,13 +78,6 @@ languages:
 ```yaml
 phd_applications:
   - Columbia University — Sustainable Development
-  - University of Cambridge — MPhil Environmental Policy
-  - LSE — MA Conflict Security Development
-fellowships:
-  - Fulbright Research (Germany)
-  - Marshall Scholarship
-  - Gates-Cambridge
-  - Luce in Asia
 ```
 
 <div align="center">
