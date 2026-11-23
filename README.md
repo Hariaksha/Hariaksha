@@ -13,19 +13,23 @@
 ```bash
 > Connect with me:
 > website    -> hariaksha.com
+> cv         -> hariaksha.com/assets/files/CV/CV.pdf
 > linkedin   -> /in/hariaksha
 > email      -> hgunda@crimson.ua.edu
 ```
 
 <p>
+  <a href="https://hariaksha.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00FF66" />
+  </a>
+  <a href="https://hariaksha.com/assets/files/CV/CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-CV-0d1117?style=for-the-badge&logo=googledocs&logoColor=00FF66" />
+  </a>
   <a href="https://www.linkedin.com/in/hariaksha" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjMDBGRjY2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPgo%3D" />
   </a>
   <a href="mailto:hgunda@crimson.ua.edu">
-    <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF66" />
-  </a>
-  <a href="https://github.com/Hariaksha" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF66" />
+    <img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF66" />
   </a>
 </p>
 
@@ -33,41 +37,31 @@
 
 ```yaml
 name: Hariaksha Gunda
-location: Montgomery, Alabama, USA
 education: The University of Alabama
-focus:
-  - Environmental Economics & Climate Change
-  - Peace & Conflict Studies
-  - Causal Inference & Econometrics
-  - Sustainable Development Policy
-majors:
-  - Data Science
-  - Foreign Languages and Literature
-minors:
-  - Mathematics
-  - Economics
-  - Computer Science
-  - International Studies
-  - Public Policy
-  - Global and Cultural Perspectives
-tools:
-  - Python / R
-  - Econometrics
-languages:
-  - English
-  - Telugu
-  - German
-  - Indonesian
+majors: [Data Science, Foreign Languages & Literature]
+minors: [Economics, Mathematics, Public Policy]
+focus: [Environmental & Development Economics, Conflict, Causal Inference]
+tools: [Python (pandas, geopandas, pyfixest), R, Jupyter, LaTeX]
+languages: [English, Telugu, German, Indonesian]
 ```
 
 ## ├──📂 Current Research
 
 ```bash
 > Project 1: Causal effects of wildfires on conflict in Indonesia
->            → Fixed effects, Poisson regression, NASA FIRMS + ACLED data
-> Project 2: Climate Disaster Attribution in USA Media: Long Panel
->            → Natural language processing, panel data analysis
+>            → Fixed effects, wind IV, Poisson regression; NASA FIRMS + ACLED data
+> Project 2: How U.S. newspapers attribute climate disasters to human vs. natural causes
+>            → NLP & LLM-assisted text coding, long panel across disaster type, state & year
 ```
+
+<p>
+  <a href="https://github.com/Hariaksha/smoke-and-strife" target="_blank">
+    <img src="https://img.shields.io/badge/Project_1-smoke--and--strife-0d1117?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=0d1117&color=1a1f24" />
+  </a>
+  <a href="https://github.com/Hariaksha/reading-the-storm" target="_blank">
+    <img src="https://img.shields.io/badge/Project_2-reading--the--storm-0d1117?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=0d1117&color=1a1f24" />
+  </a>
+</p>
 
 ## ├──📂 Activity
 
@@ -76,8 +70,13 @@ languages:
 ## └──📂 Goals
 
 ```yaml
-phd_applications:
-  - Columbia University — Sustainable Development
+next:
+  - PhD in environmental & sustainable development economics / public policy
+  - Research on climate, conflict, and sustainable development
+open_to:
+  - Research collaborations, especially in environmental & development economics
+  - Research assistant positions
+  - Pre-doctoral & research fellowships
 ```
 
 <div align="center">
