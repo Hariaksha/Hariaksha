@@ -38,11 +38,11 @@
 ```yaml
 name: Hariaksha Gunda
 education: The University of Alabama
-majors: [Data Science, Foreign Languages & Literature]
-minors: [Economics, Mathematics, Public Policy]
-focus: [Environmental & Development Economics, Conflict, Causal Inference]
-tools: [Python (pandas, geopandas, pyfixest), R, Jupyter, LaTeX]
-languages: [English, Telugu, German, Indonesian]
+majors: Data Science, Foreign Languages & Literature
+minors: Economics, Mathematics, Public Policy
+focus: Environmental & Development Economics, Conflict, Causal Inference
+tools: Python (pandas, geopandas, pyfixest), R, Jupyter, LaTeX
+languages: English, Telugu, German, Indonesian
 ```
 
 ## ├──📂 Current Research
